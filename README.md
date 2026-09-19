@@ -1,4 +1,4 @@
-<img width="529" height="162" alt="image" src="https://github.com/user-attachments/assets/edde9af2-e29a-4ffc-874c-806425960f4a" /># OceanBase-Learning  
+# OceanBase-Learning  
 # Author: 010no010
 # 本教程旨在帮助人更了解基础的OceanBase，方便参加蚂蚁数据库竞赛，教程只是我个人的建议希望可以给大家带来帮助，有什么不足的希望大家给我一些指正
 本教程适用于希望在 Windows 电脑上通过 WSL2 搭建 OceanBase 社区版的初学者。本教程以 Windows + WSL2 + Ubuntu 22.04 + OceanBase CE 4.5.0 为例。  目标：从一个全新的 Windows 环境开始，最终能够进入 obclient，执行 SQL
